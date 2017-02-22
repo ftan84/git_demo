@@ -1,1 +1,6 @@
-import pandas as pd
+students = [
+    'Francis'
+]
+
+for student in students:
+    print(student)
