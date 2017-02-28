@@ -1,6 +1,7 @@
 students = [
     'Francis',
-    'Frank'
+    'Frank',
+    'test'
 ]
 
 for student in students:
