@@ -1,10 +1,6 @@
-import pandas as pd
-
-
 students = [
-            'Francis',
-            'Justin'
-            ]
-            
+    'Francis'
+]
+
 for student in students:
     print(student)
